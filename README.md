@@ -30,7 +30,7 @@ This repository contains the implementation of an ESRGAN model using PyTorch. Th
 1. Clone this repo.
 
 ```
-git clone https://github.com/nagaditya39/ImageSR-ESRGAN.git
+git clone https://github.com/cy6e/ImageSR-ESRGAN.git
 cd ImageSR-ESRGAN
 ```
 2. Prepare low-resolution images for inference, in the folder labelled  `test_images`
@@ -55,6 +55,5 @@ cd ImageSR-ESRGAN
 - Special thanks to the PyTorch community for their contributions to deep learning research and development.
 
 ## Contributors
-- Aditya Nag [Github](https://github.com/nagaditya39)
 - Adarsh Kumar [Github](https://github.com/cy6e)
 ---
